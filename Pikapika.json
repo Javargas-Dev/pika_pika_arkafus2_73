@@ -1,4 +1,4 @@
-﻿[
+[
 {
     "author" : "kustomeuse",
     "name" : "Pikapika",
@@ -6,8 +6,8 @@
     "version" : "2.73",
     "dofusVersion" : "2.73",
     "description" : "Pikapika adaptado a Arkafus 2.73.",
-    "url" : "https://github.com/Javargas-Dev/pika_pika_arkafus2_73/raw/main/Pikapika.zip",
-    "previewUrl" : "https://github.com/Javargas-Dev/pika_pika_arkafus2_73/raw/main/pikapikachupreview.jpg",
+    "url" : "https://raw.githubusercontent.com/Javargas-Dev/pika_pika_arkafus2_73/main/Pikapika.zip",
+    "previewUrl" : "https://raw.githubusercontent.com/Javargas-Dev/pika_pika_arkafus2_73/main/pikapikachupreview.jpg",
     "creationDate" : "17/05/2024",
     "modificationDate" : "12/09/2026"
 }
